@@ -1,0 +1,13 @@
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.exe
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.deps.json
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.dll
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\bin\Debug\netcoreapp3.1\Clases y metodos abstract.pdb
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.dll
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.pdb
+C:\Users\USUARIO\source\repos\Clases y metodos abstract\Clases y metodos abstract\obj\Debug\netcoreapp3.1\Clases y metodos abstract.genruntimeconfig.cache
